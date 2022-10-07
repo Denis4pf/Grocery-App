@@ -1,6 +1,7 @@
 import React from "react";
 import GroceryItem from "./GroceryItem";
 
+
 function Home({ groceries, onUpdate, onDelete }) {
   const groceryItems = groceries.map((grocery, index) => {
     return (
