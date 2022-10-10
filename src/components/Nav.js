@@ -9,8 +9,12 @@ function Nav() {
           src="https://i.pinimg.com/736x/2f/7f/dc/2f7fdcc294c90e1a98cc32e813f1723b.jpg"
           alt="logo"
         />
+         <img
+          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToembG52beaW5VYQN53BEYviAeFVAyMZu4DA&usqp=CAU"
+          alt="logo"
+        />
         <h2>
-          G-<span>Sto</span>re
+          4<span>PF</span> G-<span>Store</span>
         </h2>
       </div>
 
